@@ -1,0 +1,33 @@
+TAVIBLOOM LAUNCH CHECKLIST
+
+BUSINESS / POLICIES — DO NOT LAUNCH UNTIL COMPLETE
+[ ] Provide and publish the actual business mailing address (currently missing)
+[ ] Confirm that connect@virexaandhartwell.com is active, monitored, and authorized for TaviBloom support (not independently verified)
+[ ] Replace [LAUNCH-REQUIRED-STORE-DOMAIN] in index.html, every policy page, robots.txt and sitemap.xml with the purchased/connected domain
+[ ] Confirm support hours/time zone and expected response time
+[ ] Confirm order processing window, shipping carrier/service, eligible destinations and delivery estimates
+[ ] Confirm 30-day return policy details: eligible products, condition, return postage, refund timing, exclusions, and return address
+[ ] Confirm free-shipping threshold offer ($50+) is real, correctly configured and financially approved before promoting it
+[ ] Review every policy against actual practices; obtain qualified legal review for US/state requirements
+
+PRODUCT / OPERATIONS
+[ ] Verify supplier, product photos, specs, pricing, inventory and safety documentation for every item
+[ ] Obtain applicable children's product testing/certification documents before listing affected products
+[ ] Build secure backend/admin and order database
+[ ] Connect approved payment processor and test checkout
+[ ] Connect order emails, shipping/tracking and returns workflow
+[ ] Configure newsletter platform, analytics/ad pixels and required privacy disclosures/consent
+[ ] Test accessibility, responsive layouts, speed and image fallbacks
+[ ] Configure Cloudflare Pages and custom domain/HTTPS
+[ ] Submit real sitemap in Google Search Console after domain is live
+[ ] Test a complete order/refund/fulfilment cycle before ads
+
+This is a development storefront, not ready to accept live orders.
+
+
+STEP 2 — D1 PRODUCT API
+[ ] Replace DATABASE_ID_HERE in wrangler.toml with the actual D1 database ID.
+[ ] Run the migration locally and verify GET /api/products returns 12 demo products.
+[ ] Bind D1 to Pages using binding name DB and redeploy.
+[ ] Verify deployed GET /api/products returns database-backed products.
+[ ] Replace demo product photos/specifications/prices with verified supplier data before live sales.

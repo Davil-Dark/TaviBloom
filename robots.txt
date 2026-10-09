@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://[LAUNCH-REQUIRED-STORE-DOMAIN]/sitemap.xml

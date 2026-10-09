@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/privacy.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/terms.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/shipping.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/returns.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/contact.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/about.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/faq.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+ <url><loc>https://LAUNCH-REQUIRED-STORE-DOMAIN/accessibility.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+</urlset>

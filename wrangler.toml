@@ -1,0 +1,11 @@
+‎# TaviBloom Cloudflare Pages + D1 configuration
+‎# After creating the D1 database, replace DATABASE_ID_HERE with t>
+‎name = "tavibloom-store"
+‎compatibility_date = "2026-10-09"
+‎pages_build_output_dir = "."
+‎
+‎[[d1_databases]]
+‎binding = "DB"
+‎database_name = "tavibloom-db"
+‎database_id = "18164749-41e2-4681-9048-eec6de7a153a"
+‎migrations_dir = "migrations"
